@@ -1,2 +1,2 @@
-# SolidWorks-Microprojects
-A repository for my educational SolidWorks projects.
+# CAD_Projects
+A repository for my educational SOLIDWORKS and Autodesk Fusion projects.
