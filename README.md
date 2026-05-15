@@ -1,2 +1,2 @@
 # CAD_Projects
-A repository for my educational SOLIDWORKS and Autodesk Fusion projects.
+### A repository for my educational SOLIDWORKS and Autodesk Fusion projects.
